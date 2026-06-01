@@ -48,6 +48,16 @@ and the target variable is House Price.
 * house_price_model.pkl
 * requirements.txt
 
+## Results
+
+The machine learning models were evaluated using:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+
+The best-performing model was selected based on the highest R² Score.
+
 ## Author
 
 Omkar Ankush
